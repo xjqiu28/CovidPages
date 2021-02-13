@@ -1,4 +1,0 @@
-recursive-include src/create_flask_app/api *
-recursive-include src/create_flask_app/default *
-recursive-include src/create_flask_app/helloworld *
-recursive-include src/create_flask_app/spa *
